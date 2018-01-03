@@ -1,0 +1,312 @@
+Notes on Lectures 1 - 4
+#######################
+
+Basic Accounting Concepts
+=========================
+
+- **Accounting** is a system which **identifies**, **records**, and
+  **communicates** information that is **relevant**, **reliable**, and
+  **comparable** to help users make better decisions.
+
+- Users off accounting information
+
+  - External users: lenders, consumer groups, shareholders, external auditors,
+    governments, customers, etc.
+
+  - Internal users: managers, sales staff, officers/directors, budget officers,
+    internal auditors, controllers, etc.
+
+- Generally Accepted Accounting Principles (GAAP)
+
+  - Relevant information - Affects the decision of its users.
+
+  - Reliable information - Is trusted by users.
+
+  - Comparable information - Is helpful in contrasting organisations.
+
+- **Accounting Equation**
+
+  - **Assets = Liabilities + Equity**
+
+- Assets: Resources owned or controlled by a company
+
+  - Cash, accounts/notes receivable, land, buildings, equipment, vehicles,
+    store supplies, etc.
+
+- Liabilities: Creditors' claims on assets
+
+  - Accounts/notes payable, taxes payable, wages payable, etc.
+
+- Equity: Owner's share of assets of a company
+
+  - Owner's investment (capital), reserves (accumulated profits).
+
+- How does the owner's **equity increases**?
+
+  1. Investment of assets by the owner *into* the business.
+
+  2. Revenue.
+
+- How does the owner's **equity decrease**?
+
+  1. Withdrawal of assets by the owner *out of* the business.
+
+  2. Expenses.
+
+
+Transaction Analysis
+====================
+
+- If a bank lends you $5000, your assets increase by that amount. But your
+  liabilities also increase by the same amount
+
+  - Assets = Liabilities + Equity
+
+  - 5000 = 5000 + Equity
+
+- If you buy a photocopy machine (an equipment) worth $1000 with that money,
+
+  - you are buying an asset (equipment), so your assets increase.
+
+  - you are also spending cash (another asset), so your assets decrease as
+    well.
+
+  - 5000 + 1000 - 1000 = 5000 + Equity
+
+Principles and Assumptions of Accounting
+----------------------------------------
+
+- Revenue Recognition Principle
+
+  - Recognise revenue when it is earned.
+
+  - When is it earned? When the product or service has been delivered to
+    customer.
+
+- Cost Principle
+
+  - Accounting information is based on actual cost. Actual cost is considered
+    objective.
+
+- Matching principle
+
+  - A company must record its expenses incurred to generate the revenue
+    reported.
+
+- Full Disclosure Principle
+
+  - A company is required to report the details behind financial statements
+    that would impact users' decisions.
+
+Revenue Recognition Principle
+-----------------------------
+
+- Revenue is **earned** when the product or service has been **delivered to the
+  customer**.
+
+- Exchange of cash in not necessary.
+
+- If the cash is not received at the time of delivery of the product/service,
+  it is **accounts receivable**. It is still revenue even though the cash has
+  not been received.
+
+- If the cash is obtained before the product/service is delivered, it must be
+  recorded as **unearned revenue** which is a **liability**. You owe the
+  customer the product/service or the cash back.
+
+Expanded Accounting Equation
+----------------------------
+
+- Assets = Liabilities + Equity
+
+- Equity increases when owner invests assets or when revenue is earned.
+
+- Equity decreases when owner withdraws assets or when expenses are incurred.
+
+- Putting these together:
+
+  - **Assets = Liabilities + Owner's capital + Revenues - Owner's withdrawals -
+    Expenses**
+
+Transaction Analysis
+--------------------
+
+- Accounting equation **must** *remain in balance* after each transaction.
+
+
+- You invest $20k to start a business. The accounts involved are:
+
+  - Cash (asset) - goes up
+
+  - Owner's capital (equity) - goes up
+
+- You purchase office supplies paying $1k. The accounts involved are:
+
+  - Cash (asset) - goes down
+
+  - Supplies (asset) - goes up
+
+- You purchase equipment for $15k. The accounts involved are:
+
+  - Cash (asset) - goes down
+
+  - Equipment (asset) - goes up
+
+- You purchase supplies of $200 and equipment of $1k *on account* (on credit -
+  payable later). The accounts involved are:
+
+  - Supplies (asset) - goes up
+
+  - Equipment (asset) - goes up
+
+  - Accounts payable (liability) - goes up
+
+- You borrow $4k from the bank. The accounts involved are:
+
+  - Cash (asset) - goes up
+
+  - Notes payable (liability) - goes up
+
++--------------------------------+----------------------------------+-----------------+
+| Assets                         | Liabilities                      | Equity          |
++=========+==========+===========+==================+===============+=================+
+| Cash    | Supplies | Equipment | Accounts payable | Notes payable | Owner's capital |
++---------+----------+-----------+------------------+---------------+-----------------+
+| 20,000  |          |           |                  |               | 20,000          |
++---------+----------+-----------+------------------+---------------+-----------------+
+| -1,000  | 1,000    |           |                  |               |                 |
++---------+----------+-----------+------------------+---------------+-----------------+
+| -15,000 |          | 15,000    |                  |               |                 |
++---------+----------+-----------+------------------+---------------+-----------------+
+|         | 200      | 1000      | 1,200            |               |                 |
++---------+----------+-----------+------------------+---------------+-----------------+
+| 4,000   |          |           |                  | 4,000         |                 |
++---------+----------+-----------+------------------+---------------+-----------------+
+| 8,000   | 1,200    | 16,000    | 1,200            | 4,000         | 20,000          |
++---------+----------+-----------+------------------+---------------+-----------------+
+| 25,200                         | 25,200                                             |
++--------------------------------+----------------------------------------------------+
+
+- You provide consulting services and receive $3k in cash. The accounts
+  involved are:
+
+  - Cash (asset) - goes up
+
+  - Revenue (equity) - goes up
+
+- Paid salaries of $800 to employees. The accounts involved are:
+
+  - Cash (asset) - goes down
+
+  - Expenses (equity) - goes up. But total equity decreases because expenses
+    decrease equity.
+
+- You withdraw $500. The accounts involved are:
+
+  - Cash (asset) - goes down
+
+  - Withdrawals (equity) - goes up. Again, total equity decreases because
+    withdrawals decrease equity.
+
++-------------------------------+----------------------------------+--------------------------------------------+
+| Assets                        | Liabilities                      | Equity                                     |
++========+==========+===========+==================+===============+=========+=============+=========+==========+
+| Cash   | Supplies | Equipment | Accounts payable | Notes payable | Capital | Withdrawals | Revenue | Expenses |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| 8,000  | 1,200    | 16,000    | 1,200            | 4,000         | 20,000  |             |         |          |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| 3,000  |          |           |                  |               |         |             | 3,000   |          |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| -800   |          |           |                  |               |         |             |         | 800      |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| -500   |          |           |                  |               |         | 500         |         |          |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| 9,700  | 1,200    | 16,000    | 1,200            | 4,000         | 20,000  | (-) 500     | 3,000   | (-) 800  |
++--------+----------+-----------+------------------+---------------+---------+-------------+---------+----------+
+| 26,900                        | 26,900                                                                        |
++-------------------------------+-------------------------------------------------------------------------------+
+
+
+Introduction to Financial Statements
+====================================
+
+Financial statements
+--------------------
+
+1. Income statement
+
+2. Statement of owner's equity
+
+3. Balance sheet
+
+4. Statement of cash flows
+
+Income statement
+----------------
+
+- Describes a company's revenues and expenses along with the resulting net
+  income or loss over a period of time due to earnings activities.
+
+- Net income is the difference between Revenues and Expenses.
+
+- Example::
+
+    Some Company
+    Income Statement
+    For Month Ended December 31, 2017
+
+    Revenues:
+        Consulting revenues     3,000
+    Expenses:
+        Salaries expense          800
+    Net income                  2,200
+
+Statement of owner's equity
+---------------------------
+
+- Shows the changes in owner's equity over a period of time.
+
+- Example::
+
+    Some Company
+    Statement of Owner's Equity
+    For Month Ended December 31, 2017
+
+    Capital, December 1, 2017                        0
+    Plus:   Investment by owner     20,000
+            Net income               2,200      22,200
+                                ----------------------
+                                                22,200
+    Less:   Withdrawals by owner                   500
+                                            ----------
+    Capital, December 31, 2017                  21,700
+                                            ----------
+
+Balance Sheet
+-------------
+
+- Describes a company's financial position at a point in time.
+
+- Example::
+
+    Some Company
+    Balance Sheet
+    December 31, 2017
+
+    Assets                        Liabilities & Equity
+    ------------------------      ------------------------------
+    Cash               9,700      Accounts payable         1,200
+    Supplies           1,200      Notes payable            4,000
+    Equipment         16,000                          ----------
+                                  Total liabilities        5,200
+                                  Owner capital           21,700
+                  ----------                          ----------
+                                  Total liabilities
+    Total assets      26,900      and equity              26,900
+                  ----------                          ----------
+
+
+Statement of Cash Flows
+-----------------------
+
+- Describes cash flow between accounts.
